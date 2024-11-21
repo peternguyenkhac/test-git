@@ -3,6 +3,7 @@ function abc (){
   var a = 123;
   console.log("hello world");
   a += 22;
+  a += 11;
   //console.log(a);
   console.log(123)
 }
